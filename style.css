@@ -1,0 +1,64 @@
+body {
+    color: #e7e4e4;
+    background-image: url(tausta6.jpg);
+    font-family: helvetica, sans-serif, arial;
+
+}
+
+h1{
+    color: black;
+}
+
+p{
+    padding-left: 5%;
+    padding-right: 5%;
+    color: black;
+}
+
+h2{
+    padding-left: 5%;
+}
+
+.pari_mv1{
+    padding-left: 5%;
+}
+
+h3{
+    padding-left: 5%;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color:black;
+  }
+
+  fieldset{
+    padding-left: 5%;
+  }
